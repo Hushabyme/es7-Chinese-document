@@ -3,3 +3,5 @@
 在线地址：https://hushabyme.gitbooks.io/ecmascript2017/content/
 
 如果对您有帮助的话，不妨点击一下 ★Star ，您的支持是我不断进步的动力。
+ 
+原文地址：https://tc39.github.io/ecma262/
